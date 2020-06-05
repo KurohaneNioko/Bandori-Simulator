@@ -1,0 +1,30 @@
+{"frames": {
+
+"bg_line_rhythm.png":
+{
+	"frame": {"x":0,"y":0,"w":1160,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1160,"h":610},
+	"sourceSize": {"w":1160,"h":610},
+	"anchor": {"x":0.5,"y":1}
+},
+"game_play_line.png":
+{
+	"frame": {"x":0,"y":610,"w":1800,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":38},
+	"sourceSize": {"w":1800,"h":38},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lane 1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:801ff4d79d46ce26c14f0874b85307ae:839c2e250c840bd52fe2312c8297d553:f07b6a4628d8838dc3caeb51b32761c3$"
+}
+}
